@@ -29,4 +29,4 @@ esac
 
 echo "$pid $name | $verName($version)"
 echo "$p Thank You For Buy VIP"
-storm +x "$vcore" -fn "vcore" "$@"
+storm +x "$vcore" -fn "core" "$@"
